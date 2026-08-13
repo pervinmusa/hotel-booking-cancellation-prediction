@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 joblib
 scikit-learn
 xgboost
-=======
-streamlit
-pandas
-joblib
-scikit-learn
-xgboost
->>>>>>> bf51959987b260f047c4927d43dce9fd4986bf89
